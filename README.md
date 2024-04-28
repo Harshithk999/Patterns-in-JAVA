@@ -5,7 +5,7 @@ Java Patterns
 
 This repository contains Java programs for generating various patterns. Whether you're a beginner looking to understand basic programming structures or an experienced developer honing your algorithmic skills, these pattern programs offer a diverse range of challenges and solutions.
 
-Patterns Included:
+Patterns Included :
 Rectangle Pattern: Create a rectangle pattern using asterisks (*) or any specified character.
 0 - 1 Triangle: Generate a triangle pattern consisting of 0s and 1s in consecutive rows.
 Floyd's Triangle: Implement Floyd's Triangle, a right-angled triangular array of natural numbers.
