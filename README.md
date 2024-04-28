@@ -15,4 +15,5 @@ Patterns Included :
 - Inverted Half Pyramid: Create an inverted half pyramid pattern using asterisks (*) or any specified character.
 - Inverted Half Pyramid Rotated 180 Degrees: Generate an inverted half pyramid rotated 180 degrees.
 - Inverted Half Pyramid using Numbers: Construct an inverted half pyramid pattern with decremental numbers.
-- Feel free to explore, contribute, and enhance these patterns according to your needs or share your solutions with the community. Happy coding!
+
+Feel free to explore, contribute, and enhance these patterns according to your needs or share your solutions with the community. Happy coding!
